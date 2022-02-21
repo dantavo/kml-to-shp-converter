@@ -1,3 +1,5 @@
+Sample project that aims to read some non overlapping kml files with geopandas and merge them to create a single Shapefile  
+
 * Before run application (in local):
 
 ```
